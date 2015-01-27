@@ -21,13 +21,12 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+		 ('PyHOGS', 'http://pyhogs.github.io'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Github', 'https://github.com/jprine'),)
+FEEDS = True
+GITHUB_URL = "https://github.com/jprine"
 
 DEFAULT_PAGINATION = False
 
