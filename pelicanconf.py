@@ -38,9 +38,9 @@ STATIC_PATHS = ['README.md', 'images', 'static']
 
 
 # Custom theme settings
-#THEME = 'pelican-bootstrap3'
+THEME = 'pelican-bootstrap3'
 #CUSTOM_CSS = 'static/custom.css'
-#BOOTSTRAP_THEME='flatly'
+BOOTSTRAP_THEME='flatly'
 
 # Plugins
 #PLUGIN_PATHS = ['pelican-plugins']
