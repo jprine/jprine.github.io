@@ -30,6 +30,12 @@ GITHUB_URL = "https://github.com/jprine"
 
 DEFAULT_PAGINATION = False
 
+# Crowsfoot specific addresses
+EMAIL_ADDRESS='jprine@apl.uw.edu'
+GITHUB_ADDRESS='https://github.com/jprine'
+#PROFILE_IMAGE_URL=''  # Add image here
+SHOW_ARTICLE_AUTHOR=False
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
