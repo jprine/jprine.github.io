@@ -38,9 +38,7 @@ STATIC_PATHS = ['README.md', 'images', 'static']
 
 
 # Custom theme settings
-THEME = 'pelican-bootstrap3'
-#CUSTOM_CSS = 'static/custom.css'
-BOOTSTRAP_THEME='flatly'
+THEME = 'crowsfoot'
 
 # Plugins
 #PLUGIN_PATHS = ['pelican-plugins']
