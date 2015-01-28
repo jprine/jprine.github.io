@@ -36,6 +36,9 @@ GITHUB_ADDRESS='https://github.com/jprine'
 #PROFILE_IMAGE_URL=''  # Add image here
 SHOW_ARTICLE_AUTHOR=False
 
+DISPLAY_CATEGORIES_ON_MENU=True
+DISPLAY_PAGES_ON_MENU=True
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
